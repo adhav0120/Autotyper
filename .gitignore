@@ -12,6 +12,6 @@ ENV/
 # Distribution / Build
 dist/
 build/
-*.spec
+
 build_log.txt
 build_log_fixed.txt
