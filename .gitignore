@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Distribution / Build
+dist/
+build/
+*.spec
+build_log.txt
+build_log_fixed.txt
